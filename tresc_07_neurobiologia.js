@@ -149,13 +149,146 @@ CONTENT.ciagalt_kulturowy = `
 <div class="psy"><b>Zasada ogólna:</b> zanim zaczniesz mówić, zapytaj się „jakim językiem ta osoba opisuje SWOJĄ pracę i swoje problemy" — i użyj dokładnie tego słownika, nie swojego korporacyjnego czy sprzedażowego. To najszybszy sposób, by insight (Teach) zabrzmiał jak zrozumienie, a nie jak prezentacja.</div>
 
 <div class="card">
-<p><b>Jak to połączyć z resztą akademii:</b> pokolenie i typ DISC mówią Ci CO i JAK, kod kulturowy środowiska mówi Ci JAKIM SŁOWNIKIEM. Janusz (moduł 26) to Pokolenie X × D/C w kodzie wiejskim — porównaj jego rozmowę z modułem 9 (X×D) i 12 (X×C), żeby zobaczyć jak te same zasady brzmią w innym słowniku. Marek (moduł 27) to Millenialsi × S/C w kodzie korporacyjnym — porównaj z modułami 16 (Y×S) i 17 (Y×C).</p>
+<p><b>Jak to połączyć z resztą akademii:</b> pokolenie i typ DISC mówią Ci CO i JAK, kod kulturowy środowiska mówi Ci JAKIM SŁOWNIKIEM. Janusz (moduł 26) to Pokolenie X × D/C w kodzie wiejskim — porównaj jego rozmowę z modułem 9 (X×D) i 12 (X×C). Marek (moduł 27) to Millenialsi × S/C w kodzie korporacyjnym — porównaj z modułami 16 (Y×S) i 17 (Y×C).</p>
+<p>Poniżej (moduły 29–31) znajdziesz jeszcze trzy pełne symulacje — inne pokolenia, inne kanały kontaktu, inny kod kulturowy: Baby Boomer × I w terenie, Pokolenie X × S przez telefon i Pokolenie Z × I na czacie. Razem to 5 pełnych rozmów pokazujących ten sam mechanizm SPIN + Take Control w zupełnie różnych realiach.</p>
 </div>
 
 <div class="quiz">
   <div class="q">Doradca rozmawia z rolnikiem i mówi „wdrożymy synergiczne rozwiązanie zoptymalizowane pod Państwa procesy operacyjne". Co jest nie tak?</div>
   <button class="opt" data-ok="1" onclick="quizPick(this,true,'Dokładnie — to złamanie zasady Tailor: żargon korporacyjny w środowisku, które mówi prosto i konkretnie, brzmi obco i budzi nieufność zamiast zaufania.','')">Użyto korporacyjnego żargonu zamiast prostego, konkretnego języka pasującego do środowiska rozmówcy</button>
   <button class="opt" data-ok="0" onclick="quizPick(this,false,'','Poprawność językowa nie jest tu problemem — problemem jest niedopasowanie kodu kulturowego do rozmówcy.')">Zdanie jest po prostu gramatycznie niepoprawne</button>
+  <div class="fb"></div>
+</div>
+`;
+
+CONTENT.scenariusz_babyboomer_i = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<span class="eyebrow">Moduł 29 · Mechanizm głębszy — pełna symulacja</span>
+<h2>Pełna symulacja: Baby Boomer × Wpływowy (instalacja PV, teren)</h2>
+<p class="lede">Pani Krystyna, 66 lat, emerytowana pielęgniarka, typ I — profil zgodny z modułem 5 (Baby Boomers × I). Kontakt bezpośredni, drzwi otwarte, kawa na stole. SPIN w tym kodzie kulturowym brzmi zupełnie inaczej niż u Janusza czy Marka — więcej ciepła, mniej liczb na starcie.</p>
+
+<h3>Etap 1–2: Zagajenie i hak (relacja przed sedno)</h3>
+<div class="scene">
+  <div class="scene-title">Próg domu, popołudnie</div>
+  <div class="bubble c"><span class="who">Doradca</span>Dzień dobry pani! Ale ładnie tu pani ma te pelargonie na balkonie — sam próbuję je hodować i marnie mi idzie. A propos sąsiedztwa — słyszała pani, że pani Halina z tej ulicy już ma panele na dachu?</div>
+  <div class="bubble k"><span class="who">Pani Krystyna</span>O, Halina? Nie wiedziałam! No proszę wejść, akurat mam kawę zaparzoną. A drogo to było?</div>
+</div>
+
+<h3>Etap 3: Pytania Problemowe i Implikacyjne — przez historię, nie liczby</h3>
+<div class="scene">
+  <div class="scene-title">Napięcie budowane opowieścią, nie danymi</div>
+  <div class="bubble c"><span class="who">Doradca</span>Halina mówiła, że najbardziej denerwowały ją te rachunki zimą, jak trzeba było grzać cały dzień. A jak u pani teraz wygląda zima z rachunkami?</div>
+  <div class="bubble k"><span class="who">Pani Krystyna</span>Ojej, nie mówmy o tym — w grudniu przyszedł rachunek i mąż o mało zawału nie dostał. A na emeryturze to nie ma z czego odkładać na takie niespodzianki.</div>
+  <div class="bubble c"><span class="who">Doradca</span>To musi być stresujące, nie wiedzieć z miesiąca na miesiąc, ile przyjdzie zapłacić. Halina mówiła podobnie, zanim się zdecydowała.</div>
+  <div class="bubble k"><span class="who">Pani Krystyna</span>No właśnie, człowiek się boi otwierać kopertę z rachunkiem, taki mamy wiek, żeby się teraz stresować.</div>
+  <div class="note">Konsekwencje (stres, strach przed kopertą) wypowiada Pani Krystyna — doradca tylko prowadzi rozmowę pytaniami i odniesieniem do sąsiadki.</div>
+</div>
+
+<h3>Etap 4–5: Pytanie Naprowadzające i ciepłe domknięcie</h3>
+<div class="scene">
+  <div class="scene-title">Ulga podana jako wspólnota, nie transakcja</div>
+  <div class="bubble c"><span class="who">Doradca</span>A gdyby ten strach przed kopertą po prostu zniknął? Halina mówiła, że teraz nawet nie sprawdza rachunku ze stresem, tylko z ciekawości, ile zaoszczędziła. Jak by to było, gdyby pani też tak mogła?</div>
+  <div class="bubble k"><span class="who">Pani Krystyna</span>Ojej, to by było wspaniale, żeby się nie bać zimy. Ale mąż będzie musiał to zobaczyć, on się zna na takich sprawach.</div>
+  <div class="bubble c"><span class="who">Doradca</span>Jak najbardziej, niech pan mąż też to zobaczy — może przyjadę w sobotę, kiedy oboje będziecie w domu, przyniosę te same papiery co Halina miała, i opowiem dokładnie jak to u niej wyglądało krok po kroku?</div>
+  <div class="bubble k"><span class="who">Pani Krystyna</span>To bardzo dobry pomysł, zapraszam w sobotę na tę kawę, to se pogadamy z mężem spokojnie.</div>
+</div>
+
+<div class="card">
+<p><b>Dlaczego to zadziałało:</b> zero liczb w pierwszych trzech wymianach zdań — most zaufania budowany przez sąsiedzkie odniesienie i wspólne emocje, dokładnie jak w module 5 (Take Control dla Baby Boomer × I to domknięcie osobiste, nie transakcyjne). Konkretny termin (sobota, z mężem) to Wspólny Plan Działania dopasowany do tego, że u Boomerów decyzja często wymaga rodziny.</p>
+</div>
+
+<div class="quiz">
+  <div class="q">Dlaczego doradca nie podał żadnej konkretnej liczby złotych w pierwszej części rozmowy z Panią Krystyną?</div>
+  <button class="opt" data-ok="1" onclick="quizPick(this,true,'Dokładnie — dla typu I w tym pokoleniu liczby na starcie zabiłyby budowaną właśnie relację. Konkret przychodzi dopiero po zbudowaniu zaufania, w sobotę z mężem.','')">Bo typ I najpierw potrzebuje relacji i zaufania — liczby na starcie zabrzmiałyby zbyt transakcyjnie</button>
+  <button class="opt" data-ok="0" onclick="quizPick(this,false,'','To nie było przypadkowe pominięcie — to świadome dopasowanie kolejności do tego, jak typ I podejmuje decyzje.')">Doradca po prostu zapomniał podać liczby</button>
+  <div class="fb"></div>
+</div>
+`;
+
+CONTENT.scenariusz_x_s = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<span class="eyebrow">Moduł 30 · Mechanizm głębszy — pełna symulacja</span>
+<h2>Pełna symulacja: Pokolenie X × Stały (klimatyzacja, telefon)</h2>
+<p class="lede">Pan Tomasz, 44 lata, mechanik samochodowy, typ S — profil zgodny z modułem 11 (Pokolenie X × S). Kontakt telefoniczny, nieufność wobec „kolejnej oferty" bardzo wysoka. SPIN musi tu iść wolniej niż gdziekolwiek indziej w tej akademii.</p>
+
+<h3>Etap 1–2: Zagajenie z góry rozbrajające nieufność</h3>
+<div class="scene">
+  <div class="scene-title">Rozmowa telefoniczna</div>
+  <div class="bubble c"><span class="who">Doradca</span>Dzień dobry, panie Tomaszu. Wiem, że pewnie dostaje pan takich telefonów sporo, więc powiem wprost — nie proszę o żadną decyzję dzisiaj, chcę tylko zapytać, jak u pana wygląda temat chłodzenia w warsztacie latem?</div>
+  <div class="bubble k"><span class="who">Pan Tomasz</span>No dostaję te telefony co drugi dzień, wszyscy chcą coś wcisnąć. Latem to jest gorąco jak w piekarniku, ale jakoś żyjemy.</div>
+</div>
+
+<h3>Etap 3: Pytania Problemowe i Implikacyjne — bardzo powoli, z ciszą</h3>
+<div class="scene">
+  <div class="scene-title">Klient sam, bez pośpiechu, dochodzi do sedna</div>
+  <div class="bubble c"><span class="who">Doradca</span>Rozumiem, że jakoś się żyje. A jak to wygląda z pracownikami w te najgorętsze dni — nie ma jakichś przestojów albo że komuś słabo się robi przy silnikach?</div>
+  <div class="bubble k"><span class="who">Pan Tomasz</span>No bywa, że chłopaki muszą robić przerwy co godzinę, bo się gotują. Raz nawet jeden zasłabł, musieliśmy go do domu odsyłać.</div>
+  <div class="bubble c"><span class="who">Doradca</span>To musi wpływać na to, ile zleceń dziennie realnie da się zrobić w lipcu-sierpniu?</div>
+  <div class="bubble k"><span class="who">Pan Tomasz</span>No pewnie, latem robimy z 30% mniej niż zimą, ludzie po prostu nie wyrabiają w tym upale.</div>
+  <div class="note">Doradca nie przyspiesza mimo pauz w rozmowie — to kluczowe dla typu S.</div>
+</div>
+
+<h3>Etap 4–5: Pytanie Naprowadzające i bardzo ostrożne domknięcie</h3>
+<div class="scene">
+  <div class="scene-title">Zero presji, mały odwracalny krok</div>
+  <div class="bubble c"><span class="who">Doradca</span>A gdyby dało się utrzymać warsztat w rozsądnej temperaturze przez cały sezon, bez tych przestojów — ile by to mogło zmienić w liczbie zleceń miesięcznie?</div>
+  <div class="bubble k"><span class="who">Pan Tomasz</span>To by było spore, ale ja się na tych ofertach nie znam, i nie chcę żadnego zobowiązania na dziś.</div>
+  <div class="bubble c"><span class="who">Doradca</span>Żadnego zobowiązania nie ma i na dziś nic nie musi pan decydować. Zostawię panu tylko numer i link do naszej strony — proszę spokojnie sprawdzić opinie, zapytać kogoś kto już to ma, i jak pan będzie gotów, sam pan zadzwoni albo ja zadzwonię za dwa tygodnie tylko zapytać jak leci.</div>
+  <div class="bubble k"><span class="who">Pan Tomasz</span>To mi pasuje, niech pan tak zrobi, za dwa tygodnie może pan zadzwonić, na razie se to poukładam w głowie.</div>
+</div>
+
+<div class="card">
+<p><b>Dlaczego to zadziałało:</b> doradca explicite zdjął presję czasową już na starcie rozmowy ("nie proszę o żadną decyzję dzisiaj") — dokładnie zasada z modułu 11. Wspólny Plan Działania tutaj to nie termin montażu, tylko termin KOLEJNEJ ROZMOWY za dwa tygodnie — mały, bezpieczny krok zamiast dużej decyzji.</p>
+</div>
+
+<div class="quiz">
+  <div class="q">Dlaczego doradca zaproponował telefon za dwa tygodnie zamiast próbować umówić montaż od razu?</div>
+  <button class="opt" data-ok="1" onclick="quizPick(this,true,'Dokładnie — dla typu S presja na decyzję w pierwszej rozmowie niemal zawsze kończy się odmową, a mały bezpieczny krok buduje zaufanie do kolejnej rozmowy.','')">Bo typ S potrzebuje czasu i poczucia braku presji — mały krok buduje zaufanie do kolejnej rozmowy</button>
+  <button class="opt" data-ok="0" onclick="quizPick(this,false,'','To nie był brak umiejętności zamykania sprzedaży — to świadome dopasowanie tempa do typu klienta.')">Bo doradca nie potrafił dobrze domknąć rozmowy</button>
+  <div class="fb"></div>
+</div>
+`;
+
+CONTENT.scenariusz_z_i = `
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<span class="eyebrow">Moduł 31 · Mechanizm głębszy — pełna symulacja</span>
+<h2>Pełna symulacja: Pokolenie Z × Wpływowy (panele PV, czat/Instagram)</h2>
+<p class="lede">Zosia, 21 lat, pierwsza mieszkanka własnego M3, typ I — profil zgodny z modułem 20 (Pokolenie Z × I). Cały kontakt przez wiadomości, zaczęty od krótkiego wideo z realizacji. SPIN skondensowany do kilku krótkich wymian, zero telefonu.</p>
+
+<h3>Etap 1–2: Zagajenie przez wideo, hak w 2 zdaniach</h3>
+<div class="scene">
+  <div class="scene-title">Wiadomości na Instagramie, wieczorem</div>
+  <div class="bubble c"><span class="who">Doradca</span>Hej! Widziałaś to wideo co wrzuciliśmy z montażu u Kasi w Twoim wieku? Miała dokładnie taki sam blok jak Ty 😊 Chcesz zobaczyć ile jej to realnie oszczędza miesięcznie?</div>
+  <div class="bubble k"><span class="who">Zosia</span>ooo widziałam to na stories! no pokaż bo ja płacę kosmos za prąd w tym mieszkaniu, ledwo starcza</div>
+</div>
+
+<h3>Etap 3: Pytania Problemowe i Implikacyjne — szybko, konkretnie</h3>
+<div class="scene">
+  <div class="scene-title">Napięcie budowane w 2 wymianach, nie 5</div>
+  <div class="bubble c"><span class="who">Doradca</span>ile średnio wychodzi Ci miesięcznie? i co robisz jak przychodzi wyższy rachunek niż myślałaś?</div>
+  <div class="bubble k"><span class="who">Zosia</span>z 280 zł czasem, i szczerze to mnie wtedy szlag trafia bo to jakby połowa mojego budżetu na jedzenie ucieka</div>
+  <div class="bubble c"><span class="who">Doradca</span>czyli realnie zamiast na siebie, te pieniądze co miesiąc lecą do dostawcy prądu?</div>
+  <div class="bubble k"><span class="who">Zosia</span>dokładnie tak to wygląda jak to ujmujesz, boli</div>
+  <div class="note">Zosia sama nazywa problem (utracony budżet) — doradca tylko zadaje krótkie pytania.</div>
+</div>
+
+<h3>Etap 4–5: Pytanie Naprowadzające i lekkie domknięcie</h3>
+<div class="scene">
+  <div class="scene-title">Ulga podana lekko, bez presji</div>
+  <div class="bubble c"><span class="who">Doradca</span>a gdyby te 280 zł spadło do jakichś 40-50 zł, co byś z tą różnicą zrobiła? 😄</div>
+  <div class="bubble k"><span class="who">Zosia</span>ja bym chyba płakała ze szczęścia haha, ale czy to nie jest jakiś przekręt, tak za dobrze brzmi</div>
+  <div class="bubble c"><span class="who">Doradca</span>rozumiem czujność, sprawdź sama — tu masz link do oficjalnej strony programu, wszystko się zgadza z tym co piszę. jak chcesz to wyślę Ci krótką wycenę dla Twojego metrażu, zero zobowiązań</div>
+  <div class="bubble k"><span class="who">Zosia</span>okej sprawdziłam, wygląda spoko — wyślij tę wycenę, obczaję i się odezwę</div>
+</div>
+
+<div class="card">
+<p><b>Dlaczego to zadziałało:</b> cała rozmowa trwała kilka minut, w naturalnym, swobodnym języku — zero formalności, zero telefonu. Weryfikacja (link do oficjalnej strony) odpowiada na czujność typową dla Pokolenia Z (moduł 21), a lekkie domknięcie „wyślę wycenę, zero zobowiązań" to Wspólny Plan Działania bez cienia presji, dopasowany do tempa czatu.</p>
+</div>
+
+<div class="quiz">
+  <div class="q">Dlaczego doradca od razu podał link do oficjalnego źródła, gdy Zosia spytała czy to nie przekręt?</div>
+  <button class="opt" data-ok="1" onclick="quizPick(this,true,'Dokładnie — Pokolenie Z ufa możliwości samodzielnej weryfikacji bardziej niż jakimkolwiek zapewnieniom słownym, zwłaszcza w kontakcie czysto cyfrowym.','')">Bo to pokolenie ufa możliwości samodzielnej weryfikacji bardziej niż słownym zapewnieniom</button>
+  <button class="opt" data-ok="0" onclick="quizPick(this,false,'','To nie było wymijanie pytania — to celowe danie jej narzędzia do zbudowania zaufania samodzielnie, co dla tego pokolenia działa najlepiej.')">Żeby uniknąć odpowiedzi wprost na jej pytanie</button>
   <div class="fb"></div>
 </div>
 `;
