@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 03: POKOLENIE X ===== */
 
 CONTENT.x_ogolnie = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/59c0d93d3_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/a24b624c3_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 8 · Pokolenie X (ur. 1965–1980)</span>
 <h2>Pokolenie X — jak podejmują decyzję zakupową</h2>
 <p class="lede">Dorastali w świecie analogowym, jako dorośli nauczyli się cyfrowego — sami, metodą prób i błędów, bez nikogo kto by ich tego uczył. W Polsce to pokolenie transformacji ustrojowej: widzieli upadek jednych firm i błyskawiczne fortuny innych. Efekt: pragmatyzm i zdrowa nieufność wobec każdego, kto obiecuje za dużo.</p>
@@ -25,7 +25,7 @@ CONTENT.x_ogolnie = `
 `;
 
 CONTENT.x_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/59c0d93d3_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/a9ed89ad7_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 9 · Pokolenie X × DISC</span>
 <h2>Pokolenie X × Dominujący (D)</h2>
 <p class="lede">Często właściciel firmy albo kierownik, który sam podejmuje decyzje zakupowe bez konsultacji. Zna się na negocjacjach — może próbować negocjować z Tobą warunki, to nie wrogość, to jego naturalny styl działania.</p>
@@ -52,7 +52,7 @@ CONTENT.x_d = `
 `;
 
 CONTENT.x_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/59c0d93d3_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/cfbfec6af_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 10 · Pokolenie X × DISC</span>
 <h2>Pokolenie X × Wpływowy (I)</h2>
 <p class="lede">Towarzyski, ale mniej rozwlekły niż Boomer typu I — ma mniej czasu, żongluje pracą i domem. Ceni autentyczność bardziej niż wylewność — wyczuwa fałszywy entuzjazm natychmiast.</p>
@@ -79,7 +79,7 @@ CONTENT.x_i = `
 `;
 
 CONTENT.x_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/59c0d93d3_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/009c0267c_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 11 · Pokolenie X × DISC</span>
 <h2>Pokolenie X × Stały (S)</h2>
 <p class="lede">Ostrożny wobec zmian, ale z innego powodu niż Boomer — nie boi się technologii, boi się kolejnego złego wyboru finansowego w czasach, które już nieraz go zaskoczyły (kryzysy, inflacja, zmiany na rynku pracy).</p>
@@ -106,7 +106,7 @@ CONTENT.x_s = `
 `;
 
 CONTENT.x_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/59c0d93d3_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/213a524b4_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 12 · Pokolenie X × DISC</span>
 <h2>Pokolenie X × Sumienny (C)</h2>
 <p class="lede">Zrobi własny arkusz kalkulacyjny porównujący oferty, zanim jeszcze z Tobą porozmawia. To najbardziej wymagająca merytorycznie kombinacja — pokolenie pragmatycznych sceptyków skrzyżowane z typem, który żyje danymi.</p>

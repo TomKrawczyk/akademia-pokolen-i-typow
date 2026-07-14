@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 08: PELNA MACIERZ 16 SYMULACJI (uzupelnienie) ===== */
 
 CONTENT.scen_bb_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/0fbf2589d_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 32 · Pełna macierz 16 symulacji</span>
 <h2>Baby Boomer × Dominujący (pompa ciepła, teren)</h2>
 <p class="lede">Pan Zdzisław, 68 lat, emerytowany kierownik budowy — profil zgodny z modułem 4. Całe życie decydował sam i szybko, nie znosi owijania w bawełnę.</p>
@@ -25,7 +25,7 @@ CONTENT.scen_bb_d = `
 `;
 
 CONTENT.scen_bb_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/f6046367c_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 33 · Pełna macierz 16 symulacji</span>
 <h2>Baby Boomer × Stały (fotowoltaika, teren)</h2>
 <p class="lede">Pan Henryk, 64 lata — profil zgodny z modułem 6. Ostrożny, potrzebuje czasu i błogosławieństwa rodziny przed każdą większą decyzją.</p>
@@ -49,7 +49,7 @@ CONTENT.scen_bb_s = `
 `;
 
 CONTENT.scen_bb_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/ce8d61dd7_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 34 · Pełna macierz 16 symulacji</span>
 <h2>Baby Boomer × Sumienny (fotowoltaika, teren)</h2>
 <p class="lede">Pani Barbara, 61 lat, emerytowana księgowa — profil zgodny z modułem 7. Chce wszystko na piśmie, zweryfikowane, bez luk.</p>
@@ -73,7 +73,7 @@ CONTENT.scen_bb_c = `
 `;
 
 CONTENT.scen_x_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/39ed65cf3_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 35 · Pełna macierz 16 symulacji</span>
 <h2>Pokolenie X × Wpływowy (klimatyzacja, telefon)</h2>
 <p class="lede">Pani Agnieszka, 46 lat, prowadzi salon fryzjerski — profil zgodny z modułem 10. Towarzyska, ale zapracowana i czujna na fałszywy entuzjazm.</p>
@@ -97,7 +97,7 @@ CONTENT.scen_x_i = `
 `;
 
 CONTENT.scen_x_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/0f34ef8c4_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 36 · Pełna macierz 16 symulacji</span>
 <h2>Pokolenie X × Sumienny (magazyn energii, e-mail + telefon)</h2>
 <p class="lede">Pan Krzysztof, 45 lat, inżynier — profil zgodny z modułem 12. Ma własny arkusz kalkulacyjny i porównuje oferty liczba po liczbie.</p>
@@ -121,7 +121,7 @@ CONTENT.scen_x_c = `
 `;
 
 CONTENT.scen_y_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/e9d2a672e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 37 · Pełna macierz 16 symulacji</span>
 <h2>Millenialsi × Dominujący (magazyn energii, czat + telefon)</h2>
 <p class="lede">Pan Michał, 32 lata, prowadzi firmę logistyczną — profil zgodny z modułem 14. Już sprawdził ofertę online, oczekuje tempa równego swojemu.</p>
@@ -144,7 +144,7 @@ CONTENT.scen_y_d = `
 `;
 
 CONTENT.scen_y_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/0f38df160_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 38 · Pełna macierz 16 symulacji</span>
 <h2>Millenialsi × Wpływowy (fotowoltaika, social media + telefon)</h2>
 <p class="lede">Pani Ola, 29 lat, kupiła pierwszy dom — profil zgodny z modułem 15. Ceni autentyczność i zgodność z wartościami bardziej niż samą cenę.</p>
@@ -167,7 +167,7 @@ CONTENT.scen_y_i = `
 `;
 
 CONTENT.scen_y_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/2d26c358d_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 39 · Pełna macierz 16 symulacji</span>
 <h2>Millenialsi × Stały (fotowoltaika, telefon + e-mail)</h2>
 <p class="lede">Pani Ania, 34 lata, nauczycielka — profil zgodny z modułem 16. Ostrożna finansowo, potrzebuje wielu potwierdzeń przed decyzją.</p>
@@ -191,7 +191,7 @@ CONTENT.scen_y_s = `
 `;
 
 CONTENT.scen_z_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/87f00092e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 40 · Pełna macierz 16 symulacji</span>
 <h2>Pokolenie Z × Dominujący (magazyn energii, czat)</h2>
 <p class="lede">Kuba, 24 lata, prowadzi jednoosobową firmę e-commerce — profil zgodny z modułem 19. Zero cierpliwości do wolnych procesów.</p>
@@ -214,7 +214,7 @@ CONTENT.scen_z_d = `
 `;
 
 CONTENT.scen_z_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/3b7a6a96a_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 41 · Pełna macierz 16 symulacji</span>
 <h2>Pokolenie Z × Stały (fotowoltaika, czat)</h2>
 <p class="lede">Julia, 22 lata, dopiero zaczyna pracę, rozważa instalację dla rodziców — profil zgodny z modułem 21. Bardzo czujna na presję i manipulację.</p>
@@ -237,7 +237,7 @@ CONTENT.scen_z_s = `
 `;
 
 CONTENT.scen_z_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/9b3cf8aba_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 42 · Pełna macierz 16 symulacji</span>
 <h2>Pokolenie Z × Sumienny (magazyn energii, telefon + czat)</h2>
 <p class="lede">Adam, 20 lat, student informatyki, pierwszy własny lokal pod wynajem krótkoterminowy — profil zgodny z modułem 22. Sprawdza fakty w czasie rzeczywistym.</p>

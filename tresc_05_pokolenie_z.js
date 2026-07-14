@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 05: POKOLENIE Z ===== */
 
 CONTENT.z_ogolnie = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/df4afb40c_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 18 · Pokolenie Z (ur. 1997–2012)</span>
 <h2>Pokolenie Z — jak podejmują decyzję zakupową</h2>
 <p class="lede">Nie pamiętają świata bez smartfona. Uwaga trwa krótko, ale nieufność wobec klasycznej reklamy jest wysoka — ufają rówieśnikom i autentycznym twórcom bardziej niż jakiemukolwiek sprzedawcy. W kontekście OZE to najczęściej młodzi przedsiębiorcy, dorośli dzieci klientów wpływający na decyzję rodziców, albo pierwsi nabywcy własnych nieruchomości.</p>
@@ -25,7 +25,7 @@ CONTENT.z_ogolnie = `
 `;
 
 CONTENT.z_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8ef302122_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 19 · Pokolenie Z × DISC</span>
 <h2>Pokolenie Z × Dominujący (D)</h2>
 <p class="lede">Młody, ambitny, często zakłada własny biznes szybciej niż poprzednie pokolenia. Nie ma cierpliwości do wolnych procesów i biurokracji — jeśli coś wymaga zbyt wielu kroków, po prostu zrezygnuje.</p>
@@ -52,7 +52,7 @@ CONTENT.z_d = `
 `;
 
 CONTENT.z_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/24a97a7a8_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 20 · Pokolenie Z × DISC</span>
 <h2>Pokolenie Z × Wpływowy (I)</h2>
 <p class="lede">Aktywny w social mediach, ceni to, jak coś „wygląda" i czy pasuje do jego tożsamości. Decyzję zakupową może podjąć pod wpływem jednego dobrego wideo czy opinii influencera bardziej niż długiej prezentacji.</p>
@@ -79,7 +79,7 @@ CONTENT.z_i = `
 `;
 
 CONTENT.z_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/323599c6c_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 21 · Pokolenie Z × DISC</span>
 <h2>Pokolenie Z × Stały (S)</h2>
 <p class="lede">Dorastał otoczony ostrzeżeniami o oszustwach internetowych — jest czujny wobec każdej presji czy „zbyt dobrej okazji". Potrzebuje niskiego ryzyka i potwierdzenia od zaufanych źródeł, zanim się zaangażuje.</p>
@@ -106,7 +106,7 @@ CONTENT.z_s = `
 `;
 
 CONTENT.z_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/dae15bf5a_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 22 · Pokolenie Z × DISC</span>
 <h2>Pokolenie Z × Sumienny (C)</h2>
 <p class="lede">Sprawdzi fakty w czasie rzeczywistym podczas rozmowy — z telefonem w ręku, otwartą przeglądarką, gotowy zweryfikować każde Twoje zdanie na miejscu. To pokolenie najbardziej biegłe cyfrowo w połączeniu z typem najbardziej wymagającym faktograficznie.</p>

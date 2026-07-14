@@ -30,7 +30,7 @@ CONTENT.intro = `
 `;
 
 CONTENT.disc = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/dcac51d81_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/39f058c8f_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 1 · Fundamenty</span>
 <h2>Model DISC: 4 typy osobowości zakupowej</h2>
 <p class="lede">DISC to jeden z najczęściej używanych modeli w treningach sprzedażowych na świecie — prosty, sprawdzony i możliwy do rozpoznania w pierwszej minucie kontaktu, bez testów psychologicznych. Cztery litery, cztery zupełnie różne sposoby podejmowania decyzji zakupowej.</p>
@@ -70,7 +70,7 @@ CONTENT.disc = `
 `;
 
 CONTENT.challenger = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/dcac51d81_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/a02a6c17b_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 2 · Fundamenty</span>
 <h2>Challenger Sale: Teach, Tailor, Take Control — bez nacisku</h2>
 <p class="lede">Badania Matthew Dixona i Brenta Adamsona (CEB/Gartner, ponad 6000 handlowców) pokazały, że najlepsi sprzedawcy nie są ani najbardziej relacyjni, ani najbardziej ustępliwi — są <b>Challengerami</b>: uczą klienta czegoś nowego o jego własnej sytuacji, dopasowują to do konkretnej osoby i pewnie prowadzą rozmowę do decyzji. W tej akademii to JEDYNY szkielet — każdy z 16 modułów pokolenie×typ pokazuje, jak go zastosować, nigdy jak go zastąpić presją.</p>

@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 04: MILLENIALSI / POKOLENIE Y ===== */
 
 CONTENT.y_ogolnie = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/5c608a56b_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 13 · Millenialsi / Pokolenie Y (ur. 1981–1996)</span>
 <h2>Millenialsi — jak podejmują decyzję zakupową</h2>
 <p class="lede">Pierwsze pokolenie cyfrowych tubylców — dorastali razem z internetem. Zanim odbiorą telefon albo otworzą drzwi, prawie zawsze już coś sprawdzili online. Decyzja zakupowa zaczyna się długo przed rozmową z Tobą.</p>
@@ -25,7 +25,7 @@ CONTENT.y_ogolnie = `
 `;
 
 CONTENT.y_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/b136c804c_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 14 · Millenialsi × DISC</span>
 <h2>Millenialsi × Dominujący (D)</h2>
 <p class="lede">Często ma własny mały biznes albo szybko awansuje w korporacji — myśli w kategoriach efektywności i danych. Zanim zadzwonisz, prawdopodobnie już przejrzał ofertę online i podjął wstępną decyzję w głowie.</p>
@@ -52,7 +52,7 @@ CONTENT.y_d = `
 `;
 
 CONTENT.y_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/0456e7933_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 15 · Millenialsi × DISC</span>
 <h2>Millenialsi × Wpływowy (I)</h2>
 <p class="lede">Aktywny w social mediach, ceni markę, która ma „duszę" i historię, nie tylko produkt. Decyzję podejmuje na podstawie tego, czy oferta pasuje do jego obrazu siebie i wartości, nie tylko czy jest tania.</p>
@@ -79,7 +79,7 @@ CONTENT.y_i = `
 `;
 
 CONTENT.y_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/706f0d480_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 16 · Millenialsi × DISC</span>
 <h2>Millenialsi × Stały (S)</h2>
 <p class="lede">Ostrożny finansowo — dorastał przez kryzysy (2008, pandemia, inflacja), więc każda większa decyzja pieniężna budzi naturalny niepokój. Zanim zdecyduje, przeczyta dziesiątki opinii i zapyta znajomych.</p>
@@ -106,7 +106,7 @@ CONTENT.y_s = `
 `;
 
 CONTENT.y_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/7d780b6f4_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 17 · Millenialsi × DISC</span>
 <h2>Millenialsi × Sumienny (C)</h2>
 <p class="lede">Ma otwarte dziesięć kart porównawczych w przeglądarce, arkusz kalkulacyjny i grupę na Facebooku, gdzie dopytuje innych o doświadczenia. To pokolenie najbardziej uzbrojone w narzędzia do researchu w połączeniu z typem, który z researchu robi naukę ścisłą.</p>

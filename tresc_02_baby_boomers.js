@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 02: BABY BOOMERS ===== */
 
 CONTENT.bb_ogolnie = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1796eb629_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/f63426f7e_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 3 · Baby Boomers (ur. 1946–1964)</span>
 <h2>Baby Boomers — jak podejmują decyzję zakupową</h2>
 <p class="lede">Pokolenie, które budowało swoją pozycję przez dekady pracy, często własnymi rękami. Ufa ludziom i instytucjom bardziej niż reklamie, ceni bezpośredni kontakt i dotrzymane słowo bardziej niż błyskotliwy marketing.</p>
@@ -25,7 +25,7 @@ CONTENT.bb_ogolnie = `
 `;
 
 CONTENT.bb_d = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1796eb629_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/e654f1cda_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 4 · Baby Boomers × DISC</span>
 <h2>Baby Boomers × Dominujący (D)</h2>
 <p class="lede">Często były szef, kierownik, właściciel gospodarstwa czy firmy — całe życie podejmował decyzje sam i szybko. Nie znosi tracenia czasu ani bycia pouczanym przez kogoś młodszego.</p>
@@ -52,7 +52,7 @@ CONTENT.bb_d = `
 `;
 
 CONTENT.bb_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1796eb629_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/f486366fa_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 5 · Baby Boomers × DISC</span>
 <h2>Baby Boomers × Wpływowy (I)</h2>
 <p class="lede">Towarzyski, lubi porozmawiać zanim przejdzie do rzeczy — o pogodzie, o wnukach, o sąsiadach. Decyzję zakupową podejmuje w dużej mierze na podstawie tego, czy polubił CIEBIE jako osobę.</p>
@@ -79,7 +79,7 @@ CONTENT.bb_i = `
 `;
 
 CONTENT.bb_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1796eb629_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/50f243e32_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 6 · Baby Boomers × DISC</span>
 <h2>Baby Boomers × Stały (S)</h2>
 <p class="lede">Ostrożny, lojalny, ceni sobie spokój i przewidywalność. To najbardziej wrażliwa na presję kombinacja w całej macierzy — pokolenie nieufne wobec nowości + typ, który z natury boi się zmiany.</p>
@@ -108,7 +108,7 @@ CONTENT.bb_s = `
 `;
 
 CONTENT.bb_c = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/1796eb629_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/7f95c8d4f_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 7 · Baby Boomers × DISC</span>
 <h2>Baby Boomers × Sumienny (C)</h2>
 <p class="lede">Często były inżynier, księgowy, nauczyciel — całe życie pracował z dokumentami i procedurami. Szanuje kompetencję i formalność, nieufny wobec czegokolwiek, co brzmi jak „zbyt piękne, by było prawdziwe".</p>

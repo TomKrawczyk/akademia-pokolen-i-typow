@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 07: MECHANIZM GLEBSZY (SPIN + NEUROBIOLOGIA) ===== */
 
 CONTENT.spin_neuro = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/11478ff6d_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 25 · Mechanizm głębszy</span>
 <h2>SPIN Selling + neurobiologia: biochemiczna mapa rozmowy</h2>
 <p class="lede">Wszystko, co widziałeś w częściach II–VI, mówiło Ci CO dopasować do kogo. Ten moduł pokazuje MECHANIZM, dlaczego to w ogóle działa — sekwencję pytań Neila Rackhama (SPIN Selling, badanie na 35 000 rozmów handlowych, 1988) i to, jak w praktyce prowadzi ona klienta przez kolejne stany emocjonalne, aż do decyzji podjętej bez poczucia presji.</p>
@@ -46,7 +46,7 @@ CONTENT.spin_neuro = `
 `;
 
 CONTENT.scenariusz_rolnik = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/5a9918e4f_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 26 · Mechanizm głębszy — pełna symulacja</span>
 <h2>Pełna symulacja: rolnik z Pokolenia X (magazyn energii)</h2>
 <p class="lede">Janusz, ok. 50 lat, Pokolenie X, mieszanka typów D i C (twardy zysk i niezależność typu D, ostrożność wobec „nowinek" typu C) — profil zgodny z modułami 9 i 12 tej akademii. Poniżej pełna rozmowa pokazująca SPIN + kod kulturowy wsi w praktyce: zero żargonu korporacyjnego, proste, twarde słowa.</p>
@@ -90,7 +90,7 @@ CONTENT.scenariusz_rolnik = `
 `;
 
 CONTENT.scenariusz_manager = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/46b1a6618_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 27 · Mechanizm głębszy — pełna symulacja</span>
 <h2>Pełna symulacja: manager Millenialsi w korporacji (magazyn energii)</h2>
 <p class="lede">Marek, 38 lat, Millenialsi, mieszanka typów S i C (bezpieczeństwo wizerunkowe i procedury typu C, potrzeba stabilności typu S) — profil zgodny z modułami 16 i 17 tej akademii. Ten sam produkt, zupełnie inny kod językowy: KPI, zarząd, procedury.</p>
@@ -133,7 +133,7 @@ CONTENT.scenariusz_manager = `
 `;
 
 CONTENT.ciagalt_kulturowy = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/73aa35f60_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 28 · Mechanizm głębszy</span>
 <h2>Ściąga: dopasowanie języka do kodu kulturowego grupy</h2>
 <p class="lede">Ten sam mechanizm SPIN + Take Control, dwa całkowicie różne słowniki. To ostatni element układanki — Tailor z Challenger Sale w praktyce nie kończy się na pokoleniu i typie DISC, sięga też do środowiska zawodowego i kulturowego rozmówcy.</p>
@@ -162,7 +162,7 @@ CONTENT.ciagalt_kulturowy = `
 `;
 
 CONTENT.scenariusz_babyboomer_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/826be69fa_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 29 · Mechanizm głębszy — pełna symulacja</span>
 <h2>Pełna symulacja: Baby Boomer × Wpływowy (instalacja PV, teren)</h2>
 <p class="lede">Pani Krystyna, 66 lat, emerytowana pielęgniarka, typ I — profil zgodny z modułem 5 (Baby Boomers × I). Kontakt bezpośredni, drzwi otwarte, kawa na stole. SPIN w tym kodzie kulturowym brzmi zupełnie inaczej niż u Janusza czy Marka — więcej ciepła, mniej liczb na starcie.</p>
@@ -206,7 +206,7 @@ CONTENT.scenariusz_babyboomer_i = `
 `;
 
 CONTENT.scenariusz_x_s = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/3382d80fc_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 30 · Mechanizm głębszy — pełna symulacja</span>
 <h2>Pełna symulacja: Pokolenie X × Stały (klimatyzacja, telefon)</h2>
 <p class="lede">Pan Tomasz, 44 lata, mechanik samochodowy, typ S — profil zgodny z modułem 11 (Pokolenie X × S). Kontakt telefoniczny, nieufność wobec „kolejnej oferty" bardzo wysoka. SPIN musi tu iść wolniej niż gdziekolwiek indziej w tej akademii.</p>
@@ -250,7 +250,7 @@ CONTENT.scenariusz_x_s = `
 `;
 
 CONTENT.scenariusz_z_i = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/a983c9f83_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 31 · Mechanizm głębszy — pełna symulacja</span>
 <h2>Pełna symulacja: Pokolenie Z × Wpływowy (panele PV, czat/Instagram)</h2>
 <p class="lede">Zosia, 21 lat, pierwsza mieszkanka własnego M3, typ I — profil zgodny z modułem 20 (Pokolenie Z × I). Cały kontakt przez wiadomości, zaczęty od krótkiego wideo z realizacji. SPIN skondensowany do kilku krótkich wymian, zero telefonu.</p>

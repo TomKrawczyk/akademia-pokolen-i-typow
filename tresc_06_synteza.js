@@ -1,7 +1,7 @@
 /* ===== AKADEMIA POKOLEN I TYPOW - CZESC 06: SYNTEZA TERENOWA ===== */
 
 CONTENT.macierz = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/7975f3a02_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/5e599a385_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 23 · Synteza terenowa</span>
 <h2>Macierz 16 kombinacji — ściąga na jednej stronie</h2>
 <p class="lede">Wszystkie 16 kombinacji pokolenie×typ w jednym miejscu — do szybkiego przypomnienia w terenie, bez przechodzenia przez pełne moduły. Zasada wspólna dla wszystkich: Teach dopasowany do pokolenia (co jest dla nich nowe), Tailor dopasowany do typu (jak to podać), Take Control zawsze prowadzi do decyzji w tempie danej osoby, nigdy wbrew niemu.</p>
@@ -21,7 +21,7 @@ CONTENT.macierz = `
 `;
 
 CONTENT.trening30 = `
-<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/7975f3a02_generated_image.png" alt="" loading="lazy">
+<img class="mod-icon reveal" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/ad3256b40_generated_image.png" alt="" loading="lazy">
 <span class="eyebrow">Moduł 24 · Synteza terenowa</span>
 <h2>Trening: 30 sekund na rozpoznanie pokolenia i typu</h2>
 <p class="lede">W terenie czy na telefonie nie masz czasu na analizę — masz pierwsze pół minuty. Ten moduł to praktyczny trening szybkiego rozpoznania obu wymiarów naraz, zanim wybierzesz podejście.</p>
