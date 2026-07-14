@@ -3,6 +3,7 @@ const CONTENT = {};
 
 CONTENT.intro = `
 <div class="hero">
+  <img class="hero-art" src="https://media.base44.com/images/public/69cd0d788375531a373c98b1/8b95d3c7e_generated_image.png" alt="" loading="lazy">
   <span class="eyebrow" style="background:rgba(34,197,94,.18);color:#bbf7d0;border-color:rgba(34,197,94,.3)">Wersja interaktywna</span>
   <h1>Akademia Pokoleń i Typów Zakupowych</h1>
   <p>Ten sam skrypt nie działa tak samo na 60-latka i na 22-latka. Nie działa tak samo na kogoś, kto chce decydować sam i szybko, jak na kogoś, kto potrzebuje danych i czasu. Ta akademia łączy dwa wymiary — <b>pokolenie</b> (Baby Boomers, X, Millenialsi, Z) i <b>typ osobowości zakupowej</b> (model DISC: Dominujący, Wpływowy, Stały, Sumienny) — w jedną spójną mapę 16 kombinacji, prowadzoną jednym wspólnym szkieletem: metodą Challenger Sale, bez presji i bez sprzeczności między modułami.</p>
