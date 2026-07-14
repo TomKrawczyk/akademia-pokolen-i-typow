@@ -235,7 +235,19 @@ const COURSE = [
   {id:"ciagalt_kulturowy", part:"VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje", nav:"28. Ściąga: kod kulturowy grupy"},
   {id:"scenariusz_babyboomer_i", part:"VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje", nav:"29. Symulacja: Baby Boomer × I (teren)"},
   {id:"scenariusz_x_s", part:"VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje", nav:"30. Symulacja: Pokolenie X × S (telefon)"},
-  {id:"scenariusz_z_i", part:"VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje", nav:"31. Symulacja: Pokolenie Z × I (czat)"}
+  {id:"scenariusz_z_i", part:"VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje", nav:"31. Symulacja: Pokolenie Z × I (czat)"},
+  // CZĘŚĆ VIII — PEŁNA MACIERZ 16 SYMULACJI (uzupelnienie brakujacych kombinacji)
+  {id:"scen_bb_d", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"32. Baby Boomer × D (pompa ciepła, teren)"},
+  {id:"scen_bb_s", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"33. Baby Boomer × S (PV, teren)"},
+  {id:"scen_bb_c", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"34. Baby Boomer × C (PV, teren)"},
+  {id:"scen_x_i", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"35. Pokolenie X × I (klimatyzacja, telefon)"},
+  {id:"scen_x_c", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"36. Pokolenie X × C (magazyn energii, e-mail)"},
+  {id:"scen_y_d", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"37. Millenialsi × D (magazyn energii, czat)"},
+  {id:"scen_y_i", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"38. Millenialsi × I (PV, social media)"},
+  {id:"scen_y_s", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"39. Millenialsi × S (PV, telefon)"},
+  {id:"scen_z_d", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"40. Pokolenie Z × D (magazyn energii, czat)"},
+  {id:"scen_z_s", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"41. Pokolenie Z × S (PV, czat)"},
+  {id:"scen_z_c", part:"VIII · Pełna macierz: pozostałe 11 symulacji", nav:"42. Pokolenie Z × C (magazyn energii, telefon/czat)"}
 ];
 
 /* Treść modułów wstrzykiwana z osobnych plików */
@@ -247,6 +259,7 @@ const COURSE = [
 <script src="tresc_05_pokolenie_z.js"></script>
 <script src="tresc_06_synteza.js"></script>
 <script src="tresc_07_neurobiologia.js"></script>
+<script src="tresc_08_macierz_pelna.js"></script>
 <script>
 /* ---------- RENDER ---------- */
 const content = document.getElementById('content');
@@ -270,7 +283,8 @@ const PART_IMG = {
   "IV · Millenialsi / Pokolenie Y (ur. 1981–1996)": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/8a4ae39c6_generated_image.png",
   "V · Pokolenie Z (ur. 1997–2012)": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/b6b8bf8fc_generated_image.png",
   "VI · Synteza terenowa": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/7975f3a02_generated_image.png",
-  "VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png"
+  "VII · Mechanizm głębszy: SPIN, neurobiologia i pełne symulacje": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/99116576f_generated_image.png",
+  "VIII · Pełna macierz: pozostałe 11 symulacji": "https://media.base44.com/images/public/69cd0d788375531a373c98b1/7975f3a02_generated_image.png"
 };
 
 let lastPartBanner = null;

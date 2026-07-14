@@ -150,7 +150,7 @@ CONTENT.ciagalt_kulturowy = `
 
 <div class="card">
 <p><b>Jak to połączyć z resztą akademii:</b> pokolenie i typ DISC mówią Ci CO i JAK, kod kulturowy środowiska mówi Ci JAKIM SŁOWNIKIEM. Janusz (moduł 26) to Pokolenie X × D/C w kodzie wiejskim — porównaj jego rozmowę z modułem 9 (X×D) i 12 (X×C). Marek (moduł 27) to Millenialsi × S/C w kodzie korporacyjnym — porównaj z modułami 16 (Y×S) i 17 (Y×C).</p>
-<p>Poniżej (moduły 29–31) znajdziesz jeszcze trzy pełne symulacje — inne pokolenia, inne kanały kontaktu, inny kod kulturowy: Baby Boomer × I w terenie, Pokolenie X × S przez telefon i Pokolenie Z × I na czacie. Razem to 5 pełnych rozmów pokazujących ten sam mechanizm SPIN + Take Control w zupełnie różnych realiach.</p>
+<p>Poniżej (moduły 29–31) i w Części VIII (moduły 32–42) znajdziesz komplet — pełną macierz 16 symulacji, po jednej na każdą kombinację pokolenie×typ z Części II–V. Razem 16 pełnych rozmów pokazujących ten sam mechanizm SPIN + Take Control w zupełnie różnych realiach, kanałach i kodach kulturowych.</p>
 </div>
 
 <div class="quiz">
